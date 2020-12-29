@@ -89,7 +89,7 @@
 ### [Zukbox](https://github.com/dlwls5201/Junction-X-Seoul-2020)
 
 - 기간 : 2020.10.09 ~2020.10.11
-- 소개 : 동남아시아를 타겟팅한 K-Culture 플랫폼
+- 소개 : zepeto를 이용한 위치 기반 음악 공유 어플
 - 역할 : 프로젝트 기획, Naver Map Api를 활용한 지도 구현, 메인 페이지 구현
 - 사용한 Skill 또는 지식 : Kotlin, Android, RxJava, Retrofit2, MVVM, Koin ,DataBinding, LiveData, naver map api, google gps
 
@@ -100,7 +100,7 @@
 ### [별별일기](https://github.com/mash-up-kr/Constellation-Diary-AOS)
 
 - 기간 : 2019.12, ~ 2020.03.01
-- 소개 : 동남아시아를 타겟팅한 K-Culture 플랫폼
+- 소개 : 별자리 운세와 질문을 통해 일기를 작성하는 어플
 - 역할 : recyclerView를 활용한 custom 캘린터 제작, 별자리 리스트와 일기장 리스트 페이지 개발
 - 사용한 Skill 또는 지식 : Kotlin, Android, RxJava, Retrofit2
 - 배포주소 : https://play.google.com/store/apps/details?id=com.mashup.telltostar
@@ -120,6 +120,8 @@
 
 
 ## 수상 경력
+
+
 
 **Junction X Seoul 2020 (ZEPETO TRACK 3등)**
 
