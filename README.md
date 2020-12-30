@@ -77,7 +77,7 @@
 
 - 기간 : 2020.05 ~ 2020.12
 - 소개 : 외국인 여행객 대상의 위치기반 오디오 가이드 제공 어플
-- 역할 : 프로젝트 기획, Repository pattern을 활용하여 내부디비와 통신 구축 , Koin과 databinding을 활용하여 MVVM pattern 구축, 메인페이지 및 메인 페이지의 flow에 포함되는 페이지 개발
+- 역할 : 프로젝트 기획, Repository pattern을 활용하여 서버연결 및 데이터 제공(서버통신 전담) , Koin과 databinding을 활용하여 MVVM pattern 구축, 메인페이지 및 메인 페이지의 flow에 포함되는 페이지 개발
 - 사용한 Skill 또는 지식 :Kotlin, Android, RxJava, Retrofit2, MVVM, Repository pattern, Koin, DataBinding
 - 배포주소 :  https://play.google.com/store/apps/details?id=com.team_mic.hear_story_android
 - <img width="1000" alt="image" src="./image/HereStory.png">
